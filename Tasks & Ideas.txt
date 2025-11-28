@@ -1,0 +1,10 @@
+# Pokuste se přidat třídu obecného Itemu, např.
+
+class GeneralItem:
+
+# Rozhodněte, zda třída bude abstraktní třídou.
+# Zamyslete se, jaké společné prvky v podobě atributů budou sdílet všechny objekty našeho "herního" světa.
+# Bude mít každý item ve hře název? bude mít i jiné atributy? Jaké kategorie bychom mohli vytvořit pro objekty?
+# Dala by se do toho systému Itemů nějak zařadit naše dříve vytvořená třída zbraň? Jak? zamyslete se nad řešením.
+
+
